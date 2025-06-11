@@ -10,6 +10,9 @@ Project Structure:
 - SQL/queries.docx: A document containing SQL queries for analyzing the HR data in PostgreSQL.
 - Images/: Screenshots of PostgreSQL query outputs to provide a visual representation of the SQL analysis.
 
+  Preview:
+  ![Dashboard:](Dashboard.png)
+
 Setup and Usage:
 
 1. Power BI Report
