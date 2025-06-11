@@ -11,7 +11,7 @@ Project Structure:
 - Images/: Screenshots of PostgreSQL query outputs to provide a visual representation of the SQL analysis.
 
   Preview:
-  ![Dashboard:](Dashboard.png)
+  ![Dashboard:](Images/Dashboard.png)
 
 Setup and Usage:
 
